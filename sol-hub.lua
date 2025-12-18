@@ -25,9 +25,9 @@ local flySpeed = 50
 
 -- Create Main Window
 local window = WindUI:CreateWindow({
-    Title = "Universal Script Hub",
-    Icon = "rbxassetid://10723434711",
-    Author = "Script Hub",
+    Title = "solar hub | sol hub",
+    Icon = "rbxassetid://6436593479",
+    Author = "snowf1 - @snowf1.",
     Folder = "WindUIConfig",
     Size = UDim2.fromOffset(580, 460),
     KeySystem = false,
